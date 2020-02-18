@@ -1,0 +1,50 @@
+Release Notes
+IDO Suite v19.2.700.0 (39 Changes - Released on February 18th 2020)
+
+New Features (20):
+0000854: [Feature] Ad delete command to all grids in the system.
+0000848: [Feature] Add default date format settings to application.
+0000847: [Feature] Add default Exchange amount Precision settings to application.
+0000849: [Feature] Add default option to show date in reports in application settings.
+0000846: [Feature] Add default Precision settings to application.
+0000853: [Feature] Add reset to JV.
+0000838: [Feature] Add Search mechanism inside JV by name, account code or account number.
+0000859: [Feature] Add search to currencies inside Currency Journal and JV.
+0000858: [Feature] Add system settings to show or hide JV notes by default.
+0000857: [Feature] Allow overriding system reports without deleting the original ones.
+0000852: [Feature] Allow save and continue and save with print in JV.
+0000827: [Feature] Allow select arabic/english in account index report.
+0000828: [Feature] Allow select arabic/english in cost center index report.
+0000825: [Feature] Allow user to override reports by putting changed reports in Application "AppData" folder.
+0000826: [Feature] Allow user to save custom company data templates in Application "AppData" folder.
+0000830: [Feature] Cannot delete an entity, User should be able to delete Entity.
+0000797: [Feature] Create a report to show accounts used by cost centers.
+0000740: [Feature] Create Daily Journal report.
+0000690: [Feature] Repo open should be in default location (My Documents), also system should add directory on creation.
+0000850: [Feature] Show /change default connection string in application settings.
+
+
+Enhancements (9):
+0000823: [Enhancement] Add Account type and Cost center availability to account index report.
+0000856: [Enhancement] Add extra entity types in Entity creation dialog.
+0000842: [Enhancement] Add serial numbers to JV lines.
+0000824: [Enhancement] Allow add account by account number in JV entry.
+0000844: [Enhancement] Fix errors in JV entry (allow full JV edit).
+0000843: [Enhancement] Make JV entry (focus, movement and amounts) easier.
+0000837: [Enhancement] Transactions: show account Number and name together.
+0000718: [Enhancement] User should be able to edit JV main data upon add or edit.
+0000835: [Enhancement] Vouchers Staging is confusing somehow in Single user Edition, it should be hidden and used only in professional edition.
+
+
+Bug Fixes (10): 
+0000822: [Bug Fix] Account index report contains wrong account level.
+0000855: [Bug Fix] An error appears when trying to create an entity with a system that uses Hijri (UmmulQura) date.
+0000836: [Bug Fix] Currency exchange rate is changed as per the new value whenever user Edit JV.
+0000832: [Bug Fix] Entity default settings some times not saved.
+0000833: [Bug Fix] Error when displaying some reports with start date value set.
+0000851: [Bug Fix] Fix Trial balance report title.
+0000820: [Bug Fix] Log file is not created multiple places, it should be in Appdata folder.
+0000829: [Bug Fix] Settings View Hides Some icons when it is shown in small screens.
+0000834: [Bug Fix] System allows currency symbol duplicates.
+0000821: [Bug Fix] system doesn't upgrade database if the repository is protected with password.
+
