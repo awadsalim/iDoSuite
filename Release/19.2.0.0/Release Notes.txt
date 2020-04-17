@@ -1,0 +1,22 @@
+Release Notes
+IDO Suite v19.2.0.0 (10 Changes - Released on November 21th 2019)
+
+New Features (5):
+0000606: [Feature] Create Reports Criteria User Control.
+0000808: [Feature] Add Row number next to row in all grids.
+0000778: [Feature] allow system logs to be passed by executable command line parameter.
+0000602: [Feature] Show Cost center Availability in Account View listing.
+0000716: [Feature] Allow user to choose "create database for me".
+
+Enhancements (3):
+0000598: [Enhancement] Add rows count in listing.
+0000806: [Enhancement] Change "عنوان الشركة في التقارير" To "إسم الشركة في التقارير".
+0000554: [Enhancement] SDK: Change all IdoWindowDialog to IDODataWindowDialog.
+
+Bug Fixes (2): 
+0000804: [Bug Fix] Cost Center amount distribution percentage appears rounded to 1 precision in JV report.
+0000805: [Bug Fix] "Trial balance by totals" report doesn't take start date.
+
+
+
+

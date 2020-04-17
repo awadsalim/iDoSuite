@@ -1,0 +1,14 @@
+Release Notes
+IDO Suite v19.2.5.0 (3 Changes - Released on November 24th 2019)
+This is a critical update to the application, please apply this update immediately
+
+Bug Fixes (3): 
+0000811: Cannot edit any entity information unless there is an already-activated entity in the system.
+0000812: Cannot open report when Entity title is not set.
+0000813: Cannot open repository after creating it with "create database option".
+
+
+
+
+
+

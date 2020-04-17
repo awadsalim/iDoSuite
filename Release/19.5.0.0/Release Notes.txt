@@ -1,0 +1,22 @@
+Release Notes
+IDO Suite v19.5.0.0 (15 Changes - Released on April 17th 2020)
+This is a critical update to the application, please apply this update immediately
+
+Enhancements (4):
+0000861: [Enhancement] Auto Printing Missing and On-hold JV should be in portrait orientation. 
+0000880: [Enhancement] Misleading message appears when trying to add Currency journal.
+0000879: [Enhancement] Whenever adding a new fiscal period; selected date should be same as current fiscal year dates.
+0000875: [Enhancement] Select default currency whenever adding an account.
+ 
+Bug Fixes (11): 
+0000860: [Bug Fix] An error happens when double clicking on tree node (e.g. "All account groups").
+0000881: [Bug Fix] Error happens in Account trial balance report when selecting two dates.
+0000874: [Bug Fix] system doesn't accept entering Date manually (an error appears in the date selector box).
+0000876: [Bug Fix] Default settings for Print JV on save and Hide notes by default are not working properly.
+0000869: [Bug Fix] Exchange rate is not updated in case select custom currency in JV.
+0000871: [Bug Fix] Error happens when previewing an advanced report.
+0000872: [Bug Fix] Confusion happens between "Entity Title in reports" and "Entity name in reports".
+0000878: [Bug Fix] Cost center trial balance report title error (administrator)
+0000877: [Bug Fix] Report studio title doesn't appear when previewing a report.
+0000873: [Bug Fix] Report Studio doesn't allow opening other windows.
+0000870: [Bug Fix] In case of Currency Journal, system doesn't show default currency.

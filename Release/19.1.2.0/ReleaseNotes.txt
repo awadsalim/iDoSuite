@@ -1,0 +1,37 @@
+v19.1.2.0 (release date November 11th 2019
+===========================================
+Features (2):
+=============
+0000262: [Feature] Allow user to override "hide account remarks" settings on vouchers print (awad.salim)
+0000270: [Feature] Add a feature to re-update a repository when moving or copying the file (awad.salim)
+
+Enhancements (12):
+==================
+0000791: [Enhancement] Change installer and system update method (awad.salim)
+0000798: [Enhancement] Allow delete a previously posted or staged JV if it is un-posted or un-staged (awad.salim)
+0000792: [Enhancement] Upon creation; Let the account inherit its parent Account nature as fixed nature. (awad.salim)
+0000794: [Enhancement] Change Arabic translation for Entity from "شركة" to "منشأة" (awad.salim)
+0000783: [Enhancement] Allow reports to show error when there is no entity logo assigned (awad.salim)
+0000775: [Enhancement] Show JV number ordered inside Account Balance report (awad.salim)
+0000023: [Enhancement] Localize MessageBox & MessageBox with YesNO (awad.salim)
+0000710: [Enhancement] Show JV number ordered inside CostCenter Balance report (awad.salim)
+0000779: [Enhancement] Stabilize SDK NameSpaces (Accounting and Sales are not in the same parent Erp namespace) (awad.salim)
+0000118: [Enhancement] Associate Files with the app (awad.salim)
+0000127: [Enhancement] Allow user to assign color to entity (awad.salim)
+0000720: [Enhancement] Double click should open record in edit mode in All new Modules (awad.salim)
+
+Bug Fixes (13):
+===============
+0000788: [Bug Fix] Accounts are not correctly sorted when adding a new journal voucher (awad.salim)
+0000787: [Bug Fix] Currency name is not sorted correctly when creating new entity (awad.salim)
+0000786: [Bug Fix] A wrong message appears when updating an entity (awad.salim)
+0000784: [Bug Fix] Account number doesn't show in Accounts listing screen (awad.salim)
+0000785: [Bug Fix] Cost center number doesn't show in Cost center listing screen (awad.salim)
+0000734: [Bug Fix] "Fiscal Year already exist" error happens when trying to add a fiscal year in a repository with multiple companies (awad.salim)
+0000776: [Bug Fix] Some Windows have wrong title (awad.salim)
+0000737: [Bug Fix] System doesn't allow selecting specific page on print (awad.salim)
+0000780: [Bug Fix] An error happens when trying to list JVs on new fiscal year (awad.salim)
+0000781: [Bug Fix] "Fiscal period already exist" error happens when trying to add new fiscal period in a repository with multiple companies (administrator)
+0000782: [Bug Fix] "Cost center number is duplicated" when editing a cost center in new entity (awad.salim)
+0000639: [Bug Fix] Need to test report studio (fixed assets) in new year (awad.salim)
+0000733: [Bug Fix] report studio should show reports relative to current entity (awad.salim)
